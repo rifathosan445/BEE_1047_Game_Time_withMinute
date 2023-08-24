@@ -1,6 +1,8 @@
-#include <stdio.h>
+Code
 
-int main() {
+    #include <stdio.h>
+
+    int main() {
     int h1, h2, m1, m2, dis1, dis2, n, ho, min;
     scanf("%d %d %d %d", &h1, &m1, &h2, &m2);
     
@@ -18,4 +20,4 @@ int main() {
     printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)\n", ho, min);
 
     return 0;
-}
+     }
